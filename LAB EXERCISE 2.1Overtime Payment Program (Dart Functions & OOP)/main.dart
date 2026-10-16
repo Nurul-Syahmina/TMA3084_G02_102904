@@ -8,7 +8,7 @@ void main() {
     'Madrid',
     5000,
     7,
-    };
+  );
 
     if (mina.salary >= 4000) {
       extraPayPerHr = 10;
